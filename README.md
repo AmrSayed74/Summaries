@@ -9,3 +9,6 @@ HTML &amp; CSS &amp; JS-Part1 &amp; Sass Summary From Elzero Web School Channel.
 <a href="https://www.instagram.com/amr.sayed74/" alt="Instagram"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 <a href="https://twitter.com/Amr_ElSsyed" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter"></a>
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=+201005074554)
+
+
+# اللهم بارك فى من رباك وبارك لك فى نفسك
